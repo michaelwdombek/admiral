@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "admiral"
+version = "0.1.0"
+description = ""
+authors = ["Michael W. Dombek <michael@cargobay.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
